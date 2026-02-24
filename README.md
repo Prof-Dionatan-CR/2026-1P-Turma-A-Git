@@ -1,3 +1,7 @@
 # Título Principal
 ## Título Secundário
-### Título Terciário
+
+**Lista:**
+- Item 1;
+- Item 2;
+- Item 3.
